@@ -1,4 +1,4 @@
-package exercicios.desafio.modelos;
+package desafio.modelos;
 
 import java.util.ArrayList;
 import java.util.List;

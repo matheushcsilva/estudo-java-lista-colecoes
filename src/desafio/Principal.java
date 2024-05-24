@@ -1,7 +1,7 @@
-package exercicios.desafio;
+package desafio;
 
-import exercicios.desafio.modelos.Cartao;
-import exercicios.desafio.modelos.Compras;
+import desafio.modelos.Cartao;
+import desafio.modelos.Compras;
 
 import java.util.Scanner;
 

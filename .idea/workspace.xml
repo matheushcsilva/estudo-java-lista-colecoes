@@ -71,11 +71,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.desafio.Principal" />
+      <option name="MAIN_CLASS_NAME" value="desafio.Principal" />
       <module name="java-listas-colecoes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicios.desafio.*" />
+          <option name="PATTERN" value="desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

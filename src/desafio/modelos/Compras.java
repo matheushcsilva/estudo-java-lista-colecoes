@@ -1,4 +1,4 @@
-package exercicios.desafio.modelos;
+package desafio.modelos;
 
 public class Compras implements Comparable<Compras>{
     private String descricao;
